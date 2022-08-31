@@ -67,7 +67,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 * 0.1.2 - 28/08/2022
      * Add Predictive Model Document
 * 0.1.2 - 31/08/2022
-      * Release History Update 
+     * Release History Update 
       
 ## 📋 Licença/License
 
