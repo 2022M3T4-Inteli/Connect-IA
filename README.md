@@ -4,9 +4,9 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Modelo de Predição USP Medicina
 
-## Nome do grupo
+## Connect I.A.
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/dayllan-alho/">Dayllan Alho</a>
@@ -17,33 +17,20 @@
 - <a href="https:">Jackson Aguiar</a> 
 
 ## 📝 Descrição
+O projeto apresentado tem como principal problema abordado a dificuldade em predizer com precisão qual o tempo de sobrevida dos pacientes vítimas de câncer de mama, visto que uma diversidade de fatores externos e internos podem afetar a evolução do tratamento e a resposta do paciente a essa patologia. Diante disso, a solução proposta pelo time de desenvolvimento foi a criação de um sistema preditivo usando inteligência artificial,visando obter predições a respeito da sobrevida do paciente baseadas em uma análise minusciosa de coeficientes que possam influênciar na progressão da doença, para assim conseguir definir o tratamento mais assertivo e menos nocivo com base nos resultados obtidos.
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
 
 ## 📁 Estrutura de pastas
 
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T4_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T4_G4_V01_Predictive_Model_Document.pdf<br>
+  &emsp;| T4_G4_V02_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T4_G4_V01_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
-
-Dentre os arquivos presentes na raiz do projeto, definem-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
