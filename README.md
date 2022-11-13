@@ -21,11 +21,9 @@ O projeto apresentado tem como principal problema abordado a dificuldade em pred
 
 
 ## 📁 Estrutura de pastas
-
-
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T4_G4_V01_Predictive_Model_Document.pdf<br>
+  &emsp;| T4_G4_V01_Predictive_Model_Document.docx<br>
   &emsp;| T4_G4_V02_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
   &emsp;|--> T4_G4_V01_Predictive_Model_Development.ipynb<br>
