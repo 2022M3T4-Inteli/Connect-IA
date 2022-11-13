@@ -66,3 +66,10 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. INCA. Câncer de mama. s.d. https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/mama
+(acesso em Setembro de 2022).
+3. —. Câncer de mama: saiba como reconhecer os 5 sinais de alerta. s.d. https://www.gov.br/saude/pt-br/assuntos/saude-brasil/eu-quero-me-exercitar/noticias/2021/cancer-de-mama-saiba-como-reconhecer-os-5-sinais-de-alerta (acesso em 2022 de Agosto).
+4. Python. Python Software Foundation. s.d. https://www.python.org/.
+5. —. The Python Standard Library. s.d. https://docs.python.org/3/library/ (acesso em Outubro de 2022).
+6. https://medium.com/dftblog/knn-introdu%C3%A7%C3%A3o-aos-algoritmos-de-aprendizado-de-m%C3%A1quina-dd2107693651 <acessado em: 04/10/2022.
+7. https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69 <acessado em: 04/10/2022.
