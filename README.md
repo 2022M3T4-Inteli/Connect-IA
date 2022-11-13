@@ -11,10 +11,10 @@
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/dayllan-alho/">Dayllan Alho</a>
 - <a href="https://www.linkedin.com/in/gabrielcaetanonhoncanse/">Gabriel Caetano</a>
-- <a href="https:/">Henri Harari</a> 
+- Henri Harari 
 - <a href="https://www.linkedin.com/in/oliver-gomes-da-silva/">Oliver Silva</a> 
 - <a href="https://www.linkedin.com/in/jordan-andrade-352541240/">Jordan Andrade</a>
-- <a href="https:">Jackson Aguiar</a> 
+- Jackson Aguiar
 
 ## 📝 Descrição
 O projeto apresentado tem como principal problema abordado a dificuldade em predizer com precisão qual o tempo de sobrevida dos pacientes vítimas de câncer de mama, visto que uma diversidade de fatores externos e internos podem afetar a evolução do tratamento e a resposta do paciente a essa patologia. Diante disso, a solução proposta pelo time de desenvolvimento foi a criação de um sistema preditivo usando inteligência artificial,visando obter predições a respeito da sobrevida do paciente baseadas em uma análise minusciosa de coeficientes que possam influênciar na progressão da doença, para assim conseguir definir o tratamento mais assertivo e menos nocivo com base nos resultados obtidos.
@@ -59,7 +59,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 ## 📋 Licença/License
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/InteliProjects">Inteli</a> by <span property="cc:attributionName">Inteli,<a href="https://www.linkedin.com/in/dayllan-alho/">Dayllan Alho</a>, <a href="https://www.linkedin.com/in/gabrielcaetanonhoncanse/">Gabriel Caetano</a>, <a href="https:/">Henri Harari</a>, <a href="https://www.linkedin.com/in/oliver-gomes-da-silva/">Oliver Silva</a>, <a href="https://www.linkedin.com/in/jordan-andrade-352541240/">Jordan Andrade</a>, <a href="https:">Jackson Aguiar</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T4-Inteli/Connect-IA">Connect IA </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects/.github/blob/main/profile/README.md">Inteli,<a href="https://www.linkedin.com/in/dayllan-alho/">Dayllan Alho</a>, <a href="https://www.linkedin.com/in/gabrielcaetanonhoncanse/">Gabriel Caetano</a>,Henri Harari, <a href="https://www.linkedin.com/in/oliver-gomes-da-silva/">Oliver Silva</a>, <a href="https://www.linkedin.com/in/jordan-andrade-352541240/">Jordan Andrade</a>,Jackson Aguiar</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
